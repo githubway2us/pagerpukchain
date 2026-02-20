@@ -1,0 +1,13 @@
+# --- Backend / Server ---
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+
+# --- Networking & Communication ---
+websocket-client==1.7.0
+requests==2.31.0
+python-multipart
+websockets
+# --- Database & Utilities ---
+# sqlite3 เป็น built-in ของ python ไม่ต้องระบุที่นี่
+# hashlib เป็น built-in ของ python ไม่ต้องระบุที่นี่

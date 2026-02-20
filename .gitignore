@@ -1,0 +1,26 @@
+# --- Database ---
+# ไม่นำไฟล์ฐานข้อมูลขึ้นไป เพราะมีข้อมูล User/Password
+*.db
+*.sqlite3
+
+# --- Python ---
+# ไฟล์ที่ Compile แล้ว
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# --- OS & IDE ---
+# ไฟล์เฉพาะของระบบปฏิบัติการ
+.DS_Store
+Thumbs.db
+
+# ไฟล์ของ Editor
+.vscode/
+.idea/
+*.swp
