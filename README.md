@@ -14,7 +14,7 @@
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/your-username/puk-pager-network.git](https://github.com/your-username/puk-pager-network.git)
+   git clone [git@github.com:githubway2us/pagerpukchain.git](git@github.com:githubway2us/pagerpukchain.git)
    cd puk-pager-network
 🏗 โครงสร้างทางเทคนิค (Technical Stack)
 Backend: FastAPI (Python)
@@ -25,14 +25,14 @@ Communication: WebSockets สำหรับระบบข้อความ Re
 
 Security: Hashlib (SHA-256) สำหรับระบบ Blockchain และการตรวจสอบข้อมูล
 
-📸 ตัวอย่างการใช้งาน
+## 📸 ตัวอย่างการใช้งาน
 หน้าแรก: ดูความเคลื่อนไหวของบล็อกล่าสุดและรายชื่อเศรษฐี (Rich Shibes)
 
 การสมัครสมาชิก: เพียงตั้งรหัสผ่าน ระบบจะสุ่มหมายเลขเพจเจอร์ให้คุณทันที
 
-การขุดเหรียญ: ไปที่เมนู Mining ในตัว Client เพื่อรับรางวัล 50 PUK ต่อบล็อก
+**การขุดเหรียญ: ไปที่เมนู Mining ในตัว Client เพื่อรับรางวัล 50 PUK ต่อบล็อก**
 
-⚖️ License
+## ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Much Secure. Very Pager. Wow. 🐕
@@ -58,5 +58,5 @@ Create Branch & Push (เปลี่ยน URL เป็นของคุณ):
 
 Bash
 git branch -M main
-git remote add origin https://github.com/your-username/puk-pager-network.git
+git remote add origin git@github.com:githubway2us/pagerpukchain.git
 git push -u origin main
