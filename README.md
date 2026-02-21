@@ -1,5 +1,14 @@
 # 📟 PUK Pager Network
-### much pager • very blockchain • wow
+### Decentralized Retro Messaging & Blockchain Protocol
+
+[![Protocol](https://img.shields.io/badge/Protocol-PUK%2F1.0-gold)]()
+[![Backend](https://img.shields.io/badge/backend-FastAPI-black)]()
+[![Database](https://img.shields.io/badge/database-SQLite-blue)]()
+[![Security](https://img.shields.io/badge/security-SHA256-green)]()
+[![Mining](https://img.shields.io/badge/mining-Proof--of--Work-red)]()
+[![License](https://img.shields.io/badge/license-MIT-white)]()
+
+---
 
 PUK Pager Network คือระบบ pager network แบบ retro-inspired ที่รวม messaging, blockchain, mining และ economy เข้าไว้ในระบบเดียว โดยใช้ FastAPI และ SQLite เป็น backend
 
